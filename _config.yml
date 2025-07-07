@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Jing Wang (王婧)"
 description              : "Homepage of Jing Wang"
-repository               : "JingWang-self/acad-homepage.github.io"
+repository               : "JingWang-self/jingwang-self.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -25,8 +25,8 @@ author:
   avatar           : "images/JingWang.jpg"
   bio              : "Peking University"
   location         : "Beijing, China"
-  employer         : "Wechat: JW_Ava"
-  pubmed           : 
+  employer         : 
+  pubmed           : "Wechat: JW_Ava"
   # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   googlescholar    : 
   email            : "2401112054@stu.pku.edu.cn"

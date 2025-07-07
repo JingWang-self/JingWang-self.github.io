@@ -28,26 +28,22 @@ I am a first-year Ph.D. student at the [Institute for Visual Technology](https:/
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/SAMPLE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/SAMPLE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-<!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
-
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 [Semantic Alignment through Temporal-Adaptive Multimodal Prompt Learning for Event-Based Open-Vocabulary Action Recognition](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Semantic_Alignment_through_Temporal-Adaptive_Multimodal_Prompt_Learning_for_Event-Based_Open-Vocabulary_Action_ICCV_2025_paper.pdf)
 **<font color='red'>Jing Wang</font>**, Rui Zhao, Ruiqin Xiong, Xingtao Wang, Xiaopeng Fan, and Tiejun Huang
 **ICCV 2025**
+
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- Our work, SAMPLE, enables large vision-language models like CLIP to perform event-based open-vocabulary action recognition. By pioneering a Temporal-Adaptive Multimodal Prompt Learning strategy, it efficiently bridges the domain gap from static images to dynamic event streams while preserving generalization for unseen actions. This establishes a new state-of-the-art across all tested scenarios, from fully-supervised to zero-shot settings.
+
+</div>
+</div>
+
+
 
 # 🎖 Selected Honors and Awards
 

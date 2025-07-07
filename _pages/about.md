@@ -36,8 +36,7 @@ I am a first-year Ph.D. student at the [Institute for Visual Technology](https:/
 **<font color='red'>Jing Wang</font>**, Rui Zhao, Ruiqin Xiong, Xingtao Wang, Xiaopeng Fan, and Tiejun Huang
 **ICCV 2025**
 
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**PDF Coming Soon**](https://jingwang-self.github.io/) 
 
 - Our work, SAMPLE, enables large vision-language models like CLIP to perform event-based open-vocabulary action recognition. By pioneering a Temporal-Adaptive Multimodal Prompt Learning strategy, it efficiently bridges the domain gap from static images to dynamic event streams while preserving generalization for unseen actions. This establishes a new state-of-the-art across all tested scenarios, from fully-supervised to zero-shot settings.
 

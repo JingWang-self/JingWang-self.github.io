@@ -51,8 +51,8 @@ My research interest includes neural machine translation and computer vision.
 
 - *2024.05* Outstanding Undergraduate Graduate of Chongqing City.
 - *2023.05* Advanced Individual in Science and Technology of Chongqing City.
-- *2022.12* The National Second Prize (Top ) in the 2022 National College Student Mathematical Contest in Modeling (CUMCM), the Chinese Association of Mathematics and Applied Mathematics.
-- *2022.05* Finalist Winner (Top 10%) in the 2022 Mathmatical Contest in Modeling (MCM/ICM), the COMAP of America.
+- *2022.12* The National Second Prize (Top 2.4%) in the 2022 National College Student Mathematical Contest in Modeling (CUMCM), the Chinese Association of Mathematics and Applied Mathematics.
+- *2022.05* Finalist Winner (Top 2.5%) in the 2022 Mathmatical Contest in Modeling (MCM/ICM), the COMAP of America.
 - *2022.09* The National Scholarship for Bachelor Students.
 - *2021.09* The National Scholarship for Bachelor Students.
 

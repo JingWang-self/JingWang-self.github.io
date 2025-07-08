@@ -23,7 +23,26 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
+        <li class="wechat-li" style="position: relative; display: inline-block; cursor: pointer;">
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}
+          <span class="wechat-qr-text" style="margin-left: 8px;">Wechat: JW_Ava</span>
+          <img src="images/QR_Jing Wang.jpg" alt="WeChat QR" class="wechat-qr-img" style="display: none; position: absolute; left: 120px; top: -20px; width: 150px; border: 1px solid #ccc; background: #fff; z-index: 1000; box-shadow: 0 2px 8px rgba(0,0,0,0.15);" />
+        </li>
+        <script>
+          document.addEventListener('DOMContentLoaded', function() {
+            var wechatLi = document.querySelector('.wechat-li');
+            if (wechatLi) {
+              wechatLi.addEventListener('mouseenter', function() {
+                var img = this.querySelector('.wechat-qr-img');
+                if (img) img.style.display = 'block';
+              });
+              wechatLi.addEventListener('mouseleave', function() {
+                var img = this.querySelector('.wechat-qr-img');
+                if (img) img.style.display = 'none';
+              });
+            }
+          });
+        </script>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>

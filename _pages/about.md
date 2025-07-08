@@ -57,7 +57,7 @@ I am a first-year Ph.D. student at the [Institute for Visual Technology](https:/
 # 📖 Educations
 
 - *2024.09 - 2029.04 (expected)*, Peking University, Computer Science and Technology, Ph.D.
-- *2020.09 - 2024.06*, Chongqing University, Computer Science and Technology, Bachelor.
+- *2020.09 - 2024.06*, Chongqing University, Computer Science and Technology, Bachelor (Rank: 1/218).
 
 # 💻 Internships
 

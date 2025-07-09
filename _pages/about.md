@@ -31,7 +31,7 @@ I am a first-year Ph.D. student at the [Institute for Visual Technology](https:/
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/SAMPLE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Semantic Alignment through Temporal-Adaptive Multimodal Prompt Learning for Event-Based Open-Vocabulary Action Recognition](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Semantic_Alignment_through_Temporal-Adaptive_Multimodal_Prompt_Learning_for_Event-Based_Open-Vocabulary_Action_ICCV_2025_paper.pdf)
+**<span style="color: #224b8d; font-weight: bold;">Semantic Alignment through Temporal-Adaptive Multimodal Prompt Learning for Event-Based Open-Vocabulary Action Recognition</span>**
 
 **<font color='red'>Jing Wang</font>**, Rui Zhao, Ruiqin Xiong, Xingtao Wang, Xiaopeng Fan, and Tiejun Huang
 **ICCV 2025**

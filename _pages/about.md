@@ -19,8 +19,6 @@ redirect_from:
 
 I am a first-year Ph.D. student at the [Institute for Visual Technology](https://idm.pku.edu.cn/) supervised by [Prof. Ruiqin Xiong](https://xiongrq.github.io/) at [Peking University](https://www.pku.edu.cn/). I received a bachelor's degree in Computer Science from the [Chongqing University](https://www.cqu.edu.cn/). During my undergraduate studies, I had the privilege of working with [Prof. Fuqiang Gu](https://faculty.cqu.edu.cn/gufq/zh_CN/index.htm) on the topic of robotics/SLAM.
 
-[CV_Chinese](CV_Chinese_Jing Wang.pdf) / [CV_English](CV_English_Jing Wang.pdf)
-
 **<font color='red'>My research interest includes multimodal learning, vision-language models and video understanding.</font>**
 
 # 🔥 News

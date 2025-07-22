@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student at the [Institute for Visual Technology](https://idm.pku.edu.cn/) supervised by [Prof. Ruiqin Xiong](https://xiongrq.github.io/) at [Peking University](https://www.pku.edu.cn/). I received a bachelor's degree in Computer Science from the [Chongqing University](https://www.cqu.edu.cn/). During my undergraduate studies, I had the privilege of working with [Prof. Fuqiang Gu](https://faculty.cqu.edu.cn/gufq/zh_CN/index.htm) on the topic of robotics/SLAM.
+I am a first-year Ph.D. student in [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/index.htm), [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Huishuai Zhang](https://huishuai-git.github.io/) and [Prof. Dongyan Zhao](https://www.icst.pku.edu.cn/zhaodongyan/). I received a bachelor's degree in Computer Science from the [Chongqing University](https://www.cqu.edu.cn/). During my undergraduate studies, I had the privilege of working with [Prof. Fuqiang Gu](https://faculty.cqu.edu.cn/gufq/zh_CN/index.htm) on the topic of robotics/SLAM.
 
 **<font color='red'>My research interest includes multimodal learning, vision-language models and video understanding.</font>**
 

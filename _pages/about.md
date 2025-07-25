@@ -59,4 +59,4 @@ I am a first-year Ph.D. student in [Wangxuan Institute of Computer Technology](h
 
 # 💻 Internships
 
-- *2023.10 - 2024.03*, Research Intern - Applied Large Language Models, Shanghai AI Lab, China.
+- *2023.12 - 2024.03*, Research Intern - Applied Large Language Models, Shanghai AI Lab, China.

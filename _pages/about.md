@@ -60,3 +60,9 @@ I am a first-year Ph.D. student in [Wangxuan Institute of Computer Technology](h
 # 💻 Internships
 
 - *2023.12 - 2024.03*, Research Intern - Applied Large Language Models, Shanghai AI Lab, China.
+
+# 🪁Miscellaneous
+This section holds my wide range of interests and passions, from active sports to the exploration of the psyche, all the way to ancient Eastern wisdom.
+- Sports: Tennis; Badminton; Swimming; Riding;
+- Psychology: Jungian Psychology; Existential Psychotherapy;
+- Chinese Traditional Culture: ☴ Yi Jing (the I Ching); Bazi (Four Pillars of Destiny); Fengshui (Chinese Geomancy); Zi Wei Dou Shu (Purple Star Astrology); Liu Yao Divination;
